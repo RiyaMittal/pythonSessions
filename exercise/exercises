@@ -33,3 +33,9 @@ Expected output: Emma appeared 2 times
 3 3 3
 4 4 4 4
 5 5 5 5 5
+
+8. CODING QUIZZ TIME
+Let's create KBC program using python!!
+Create a program capable of displaying questions to the user like KBC,
+Use list data type to store the questions and their correct answers.
+Display the final amount, the person is taking home after playing the game.
